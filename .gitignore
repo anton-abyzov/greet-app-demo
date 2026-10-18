@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+# Skill Studio local state
+.vskill/
+evals/history/
+evals/benchmark.json
+**/evals/history/
+**/evals/benchmark.json
