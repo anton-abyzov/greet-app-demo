@@ -1,2 +1,3 @@
 {"t":"*","e":"session","by":"codex@demo","at":"2026-10-18T17:16:42.015Z","note":"session 01a15003-aaf5-7570-a134-5d096e94b2bb"}
 {"t":"T-01","e":"claim","by":"codex@demo","at":"2026-10-18T17:16:42.015Z"}
+{"t":"T-01","e":"done","by":"codex@demo","at":"2026-10-18T17:17:04.188Z","evidence":"npm test → exit 0\nlog: .specweave/increments/0001-personal-greeting/reports/task-T-01.txt\n> greet-app@0.1.0 test\n> node --test\n\n✔ greets the world (0.51675ms)\n✔ greets by name (0.042833ms)\nℹ tests 2\nℹ suites 0\nℹ pass 2\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 67.855709\nHEAD bf76e65"}
