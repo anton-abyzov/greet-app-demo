@@ -1,0 +1,12 @@
+{
+  "id": "0002-greet-a-team",
+  "uuid": "241b41b9-ced5-4b8a-bd3d-0fdc5ea799c0",
+  "status": "active",
+  "type": "feature",
+  "priority": "P1",
+  "created": "2026-10-18T17:16:06.000Z",
+  "updated": "2026-10-18T17:16:06.000Z",
+  "lastActivity": "2026-10-18T17:16:06.000Z",
+  "title": "Greet a team",
+  "project": "greet-app"
+}
