@@ -1,0 +1,12 @@
+{
+  "id": "0001-personal-greeting",
+  "uuid": "c7788a0c-0018-442d-b264-22a9f009abfa",
+  "status": "active",
+  "type": "feature",
+  "priority": "P1",
+  "created": "2026-10-18T16:14:17.190Z",
+  "updated": "2026-10-18T16:14:17.190Z",
+  "lastActivity": "2026-10-18T16:14:17.190Z",
+  "title": "Personal greeting",
+  "project": "greet-app"
+}
