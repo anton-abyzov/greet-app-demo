@@ -1,0 +1,89 @@
+$ npm test
+# exit 0 — 2026-10-31T07:36:51.602Z
+
+
+> greet-app@0.1.0 test
+> node --test
+
+TAP version 13
+# Subtest: greets the world
+ok 1 - greets the world
+  ---
+  duration_ms: 0.486541
+  type: 'test'
+  ...
+# Subtest: greets by name
+ok 2 - greets by name
+  ---
+  duration_ms: 0.102917
+  type: 'test'
+  ...
+# Subtest: greets a team of two
+ok 3 - greets a team of two
+  ---
+  duration_ms: 0.051209
+  type: 'test'
+  ...
+# Subtest: greets larger teams with commas and a final and
+ok 4 - greets larger teams with commas and a final and
+  ---
+  duration_ms: 0.448
+  type: 'test'
+  ...
+# Subtest: greets a team of one by name
+ok 5 - greets a team of one by name
+  ---
+  duration_ms: 0.08425
+  type: 'test'
+  ...
+# Subtest: greets the world for an empty team
+ok 6 - greets the world for an empty team
+  ---
+  duration_ms: 0.052125
+  type: 'test'
+  ...
+# Subtest: greets the world in German
+ok 7 - greets the world in German
+  ---
+  duration_ms: 0.36825
+  type: 'test'
+  ...
+# Subtest: greets by name in German
+ok 8 - greets by name in German
+  ---
+  duration_ms: 0.053542
+  type: 'test'
+  ...
+# Subtest: greets the world in Spanish
+ok 9 - greets the world in Spanish
+  ---
+  duration_ms: 0.479417
+  type: 'test'
+  ...
+# Subtest: greets by name in Spanish
+ok 10 - greets by name in Spanish
+  ---
+  duration_ms: 0.058875
+  type: 'test'
+  ...
+# Subtest: greets the world in French
+ok 11 - greets the world in French
+  ---
+  duration_ms: 0.34375
+  type: 'test'
+  ...
+# Subtest: greets by name in French
+ok 12 - greets by name in French
+  ---
+  duration_ms: 0.053459
+  type: 'test'
+  ...
+1..12
+# tests 12
+# suites 0
+# pass 12
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 44.856708

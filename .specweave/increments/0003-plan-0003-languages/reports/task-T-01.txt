@@ -1,0 +1,23 @@
+$ npm test
+# exit 0 — 2026-10-31T07:31:28.625Z
+
+
+> greet-app@0.1.0 test
+> node --test
+
+✔ greets the world (1.8485ms)
+✔ greets by name (0.119291ms)
+✔ greets a team of two (0.092792ms)
+✔ greets larger teams with commas and a final and (0.085833ms)
+✔ greets a team of one by name (0.081208ms)
+✔ greets the world for an empty team (0.069959ms)
+✔ greets the world in Spanish (1.192208ms)
+✔ greets by name in Spanish (0.103375ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 213.810375

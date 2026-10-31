@@ -1,12 +1,15 @@
 {
   "id": "0003-plan-0003-languages",
   "uuid": "ef4ad2ec-428c-4786-ab71-fb8267d5afab",
-  "status": "active",
+  "status": "completed",
   "type": "feature",
   "priority": "P1",
   "created": "2026-10-31T07:29:52.408Z",
-  "updated": "2026-10-31T07:29:52.408Z",
-  "lastActivity": "2026-10-31T07:29:52.408Z",
+  "updated": "2026-10-31T07:41:43.393Z",
+  "lastActivity": "2026-10-31T07:41:43.393Z",
   "title": "Plan 0003 languages",
-  "project": "greet-app"
+  "project": "greet-app",
+  "externalLinks": {},
+  "readyForReviewAt": "2026-10-31T07:41:43.393Z",
+  "approvedAt": "2026-10-31T07:41:43.393Z"
 }
